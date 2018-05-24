@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Sangwon and shortly you'll find here a brand new Website!
 
 Things you may want to cover:
 
